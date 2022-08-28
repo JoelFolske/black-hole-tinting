@@ -12,7 +12,7 @@ const Video = () => {
       </video>
       <div className="content">
         <h1>Revolutionary</h1>
-        <p>World's greatest tint shop ever</p>
+        <p>Changing the name of the game.</p>
         <br></br>
         <div>
           <Link to="/ourwork" className="btn">Our Work</Link>

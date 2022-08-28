@@ -52,14 +52,16 @@ const Footer = () => {
             about your day worry free.
           </p>
           <div className="social">
-            <FaFacebook
-              size={30}
-              style={{ color: "#ffffff", marginRight: "1rem" }}
-            />
+              <FaFacebook
+                size={30}
+                style={{ color: "#ffffff", marginRight: "1rem" }}
+              />
+
             <FaTwitter
               size={30}
               style={{ color: "#ffffff", marginRight: "1rem" }}
             />
+          
             <FaLinkedin
               size={30}
               style={{ color: "#ffffff", marginRight: "1rem" }}
