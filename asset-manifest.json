@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/black-hole-tinting/static/css/main.094a3eb3.css",
+    "main.js": "/black-hole-tinting/static/js/main.fc35061b.js",
+    "static/media/headervid.mp4": "/black-hole-tinting/static/media/headervid.c2ccd332f2d3dd054845.mp4",
+    "static/media/tint3.jpeg": "/black-hole-tinting/static/media/tint3.ac1e67a7efa3f5f36100.jpeg",
+    "static/media/tint2.jpeg": "/black-hole-tinting/static/media/tint2.4ec5bc5c5452f9f51848.jpeg",
+    "static/media/sideProfile.png": "/black-hole-tinting/static/media/sideProfile.d21bcb3feafff7977b13.png",
+    "static/media/tint1.jpeg": "/black-hole-tinting/static/media/tint1.ee58708b84600185d9eb.jpeg",
+    "static/media/Toyota.jpeg": "/black-hole-tinting/static/media/Toyota.ba29f41359bebbcc5b88.jpeg",
+    "static/media/ToyotaNight.jpeg": "/black-hole-tinting/static/media/ToyotaNight.af80a1ff59331563f9da.jpeg",
+    "index.html": "/black-hole-tinting/index.html",
+    "main.094a3eb3.css.map": "/black-hole-tinting/static/css/main.094a3eb3.css.map",
+    "main.fc35061b.js.map": "/black-hole-tinting/static/js/main.fc35061b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094a3eb3.css",
+    "static/js/main.fc35061b.js"
+  ]
+}
