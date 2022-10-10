@@ -15,8 +15,7 @@ const OurWork = () => {
       <div className="left">
         <h1>Our Work</h1>
         <p>
-          This is our work page, have a look at what we do and what we have to
-          offer.
+          Check out our previous work
         </p>
         <br></br>
         <Link to="/contact">
