@@ -38,7 +38,7 @@ const Pricing = () => {
           <span className="bar"></span>
           <h3>Starting at:</h3>
 
-          <p className="btc">$200</p>
+          <p className="btc">$250</p>
           <p>- Reduces Sun Glare -</p>
           <p>- Blocks 50% of Light -</p>
           <p>- Private Quarters -</p>
@@ -66,7 +66,7 @@ const Pricing = () => {
           <span className="bar"></span>
           <h3>Starting at:</h3>
 
-          <p className="btc">$200</p>
+          <p className="btc">$600</p>
           <p>- Protect Paint From Oxidizing -</p>
           <p>- Lasts 2 - 5 Years -</p>
           <p>- Repels Dirt And Mud -</p>
