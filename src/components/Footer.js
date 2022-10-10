@@ -34,7 +34,7 @@ const Footer = () => {
             </h4>
           </div>
           <div className="email">
-            <h4>
+            <h4 class="side-by-side">
               <FaMailBulk
                 size={20}
                 style={{ color: "#ffffff", marginRight: "2rem" }}
@@ -42,26 +42,23 @@ const Footer = () => {
               blackholetinting@gmail.com
             </h4>
           </div>
-        </div>
-        <div className="right">
-          <h4>About Our Company</h4>
-          <p>
-            We're proud of our tint shop and strive to keep it a clean, well lit
-            environment in which to install in. Unlike most high output tint
-            shops, you can feel confident leaving your car with us as you go
-            about your day worry free.
-          </p>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+
           <div className="social">
-              <FaFacebook
-                size={30}
-                style={{ color: "#ffffff", marginRight: "1rem" }}
-              />
+            <FaFacebook
+              size={30}
+              style={{ color: "#ffffff", marginRight: "1rem" }}
+            />
 
             <FaTwitter
               size={30}
               style={{ color: "#ffffff", marginRight: "1rem" }}
             />
-          
+
             <FaLinkedin
               size={30}
               style={{ color: "#ffffff", marginRight: "1rem" }}
